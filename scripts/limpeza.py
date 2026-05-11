@@ -29,3 +29,17 @@ valores_negativos = (arquivo['valor'] < 0).sum()
 print(f'Valores negativos encontrados: {valores_negativos}')
 
 arquivo.loc[arquivo['valor'] < 0, 'valor'] = 0
+
+arquivo['data'] = pd.to_datetime(arquivo['data'])
+
+arquivo = arquivo.sort_values(by='data')
+
+arquivo.to_csv('dados/vendas_tratadas.csv', index=False)
+
+print('\n========================')
+print('BASE TRATADA')
+print('========================\n')
+
+print(arquivo)
+
+print('\nArquivo salvo com sucesso')
