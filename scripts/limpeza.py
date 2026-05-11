@@ -1,6 +1,6 @@
 import pandas as pd
 
-arquivo = pd.read_csv('dados/vendas.csv')
+arquivo = pd.read_csv('dados/vendas.csv', sep=';')
 
 print('\nBASE ORIGINAL\n')
 
