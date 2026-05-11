@@ -1,0 +1,11 @@
+id;produto;vendedor;cidade;valor;data
+1;Notebook;Carlos;Maringa;3500;01/05/2026
+2;Mouse;Ana;maringa;120;02/05/2026
+3;Teclado;Pedro;MARINGA;250;03/05/2026
+4;Monitor;Lucas;Londrina;-900;04/05/2026
+4;Monitor;Lucas;Londrina;-900;04/05/2026
+5;Headset;Julia;;300;05/05/2026
+6;Webcam;Ana;Curitiba;450;06/05/2026
+7;Mousepad;Pedro;curitiba;80;06/05/2026
+8;SSD;Carlos;CURITIBA;650;07/05/2026
+9;Cadeira;Lucas;Maringa;1200;08/05/2026
