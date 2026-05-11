@@ -2,6 +2,9 @@
 
 Projeto desenvolvido com foco em organização e qualidade de dados utilizando Python e Power BI.
 
+## Objetivo
+Este projeto foi criado com finalidade de estudo e desenvolvimento prático na área de análise, organização e tratamento de dados, simulando rotinas utilizadas em ambientes corporativos, como parte do início dos meus estudos na área de dados.
+
 ## Funcionalidades
 
 - leitura de CSV;
@@ -35,6 +38,6 @@ dashboard/
 imagens/
 ```
 
-## Objetivo
+## Dashboard
 
-Simular um processo básico de governança e tratamento de dados semelhante a rotinas utilizadas em ambientes corporativos.
+O projeto possui dashboard analítico desenvolvido no Power BI para visualização e interpretação dos dados tratados. A imagem do dashboard esta disponível na pasta `imagens`.
