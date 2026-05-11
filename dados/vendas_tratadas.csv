@@ -1,0 +1,10 @@
+id,produto,vendedor,cidade,valor,data
+1,Notebook,Carlos,Maringa,3500,2026-01-05
+2,Mouse,Ana,Maringa,120,2026-02-05
+3,Teclado,Pedro,Maringa,250,2026-03-05
+4,Monitor,Lucas,Londrina,0,2026-04-05
+5,Headset,Julia,Nao Informado,300,2026-05-05
+6,Webcam,Ana,Curitiba,450,2026-06-05
+7,Mousepad,Pedro,Curitiba,80,2026-06-05
+8,SSD,Carlos,Curitiba,650,2026-07-05
+9,Cadeira,Lucas,Maringa,1200,2026-08-05
